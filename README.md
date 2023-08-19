@@ -1,6 +1,6 @@
 # fake_api_ecommerce
 
-This template should help get you started developing with Vue 3 in Vite.
+ecommerce website , we are using fakestore to fetch product and pinia store
 
 ## Recommended IDE Setup
 
